@@ -27,17 +27,3 @@ jobs:
         git push "${remote_repo}" HEAD:google-scholar-stats --force
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
-      
-      # 新增步骤：将 JSON 文件推送到 main 分支
-    - name: Commit and Push to main Branch
-      run: |
-        cd ./google_scholar_crawler/results
-        git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
-        git commit -m "Updated Citation Data on main branch"
-        git push "${remote_repo}" HEAD:main --force  # 确保推送到 main 分支
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
