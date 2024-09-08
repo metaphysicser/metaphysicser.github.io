@@ -18,7 +18,7 @@ redirect_from:
 <script>
   async function loadCitationData() {
   try {
-    const response = await fetch('https://metaphysicser.github.io/metaphysicser.github.io/gs_data.json'); // 替换为你的 GitHub Pages URL
+    const response = await fetch('https://github.com/metaphysicser/metaphysicser.github.io/raw/google-scholar-stats/gs_data.json'); // 替换为你的 GitHub Pages URL
 
     if (!response.ok) {
       throw new Error("Failed to load JSON data");
