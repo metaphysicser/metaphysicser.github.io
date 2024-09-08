@@ -15,6 +15,41 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<script>
+  async function loadCitationData() {
+  try {
+    const response = await fetch('https://metaphysicser.github.io/metaphysicser.github.io/gs_data.json'); // 替换为你的 GitHub Pages URL
+
+    if (!response.ok) {
+      throw new Error("Failed to load JSON data");
+    }
+
+    const data = await response.json();
+    const publications = data.publications;
+
+    // 遍历每篇文章的引用数据
+    for (const pubId in publications) {
+      const publication = publications[pubId];
+      const numCitations = publication.num_citations;
+      const citedbyUrl = publication.citedby_url;
+
+      // 找到页面上的引用元素并更新其内容
+      const citationElement = document.querySelector(`.show_paper_citations[data='${pubId}']`);
+      if (citationElement) {
+        citationElement.innerHTML = `<a href="${citedbyUrl}" target="_blank">${numCitations} citations</a>`;
+      } else {
+        console.error(`Element with data attribute '${pubId}' not found.`);
+      }
+    }
+  } catch (error) {
+    console.error("Error loading citation data:", error);
+  }
+}
+
+// 页面加载时调用函数
+window.onload = loadCitationData;
+</script>
+
 <span class='anchor' id='about-me'></span>
 # 🙋🏼About Me
 Hello! I am Pinglu Zhang (张平路), a master's student at the &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [Institute of Fundamental and Frontier Sciences (IFFS)](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院), majoring in Computer Science and Technology. 
@@ -48,6 +83,10 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 **Bioinformatics, 2024, CCF-B, IF2023=4.4, Q1.** 
 
 [**Paper**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=T70BtHMAAAAJ&citation_for_view=T70BtHMAAAAJ:u-x6o8ySG0sC)&nbsp;&nbsp;[**Code**](https://github.com/malabz/FMAlign2)&nbsp;&nbsp;**Citations:** <strong><span class='show_paper_citations' data='T70BtHMAAAAJ:u-x6o8ySG0sC'></span></strong>
+
+<div>
+  <strong>Citations:</strong> <strong><span class='show_paper_citations' data='T70BtHMAAAAJ:u-x6o8ySG0sC'>Loading...</span></strong>
+</div>
 
 - FMAlign2 is an improved MSA method that uses a suffix array and vertical division strategy to align ultralong sequences in parallel. 
 - FMAlign2 reduces processing time while maintaining accuracy, handling sequences up to billions in length efficiently.
