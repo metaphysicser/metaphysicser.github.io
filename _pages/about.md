@@ -21,7 +21,7 @@ Hello! I am Pinglu Zhang (张平路), a master's student at the &nbsp;<img src='
 
 I am also part of a joint training program (联合培养) at the &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，长三角研究院).
 
-I am conducting research on [Sequence Alignment](http://lab.malab.cn/~cjt/MSA/) at the [Malab](http://123.57.240.48/forum.php?mod=viewthread&tid=8672) laboratory under the supervision of [Prof. Quan Zou](http://lab.malab.cn/~zq/) (邹权教授). My work focuses on developing multiple sequence alignment for large-scale data, centromere region alignment, and related topics <a href='https://scholar.google.com/citations?user=T70BtHMAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+I am conducting research on [Sequence Alignment](http://lab.malab.cn/~cjt/MSA/) at the [Malab](http://123.57.240.48/forum.php?mod=viewthread&tid=8672) laboratory under the supervision of [Prof. Quan Zou](http://lab.malab.cn/~zq/) (邹权教授). My work focuses on developing multiple sequence alignment for large-scale data, mulitiple genome alignment, centromere region alignment, and related topics <a href='https://scholar.google.com/citations?user=T70BtHMAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
 Researchers interested in collaboration are welcome to contact me at [pingluzhang@outlook.com](mailto:pingluzhang@outlook.com).
 
@@ -63,7 +63,7 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 
 - [Application and Comparison of Machine Learning and Database-Based Methods in Taxonomic Classification of High-Throughput Sequencing Data](https://academic.oup.com/gbe/article-abstract/16/5/evae102/7674165), Q Tian, **P Zhang**, Y Zhai, Y Wang\*, Q Zou\*. Genome Biology and Evolution, 2024, IF2023=3.2, Q2.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/sequence%20classification%20survey.pdf)&nbsp;&nbsp;[**Code**](http://lab.malab.cn/~tqz/project/taxonomic/)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:9yKSN-GCB0IC'></span></strong>
 
-- [TCM@MPXV: A Resource for Treating Monkeypox Patients in Traditional Chinese Medicine](https://www.eurekaselect.com/article/142054), Xin Zhang, Feiran Zhou, **Pinglu Zhang**, Quan Zou\* and Ying Zhang\*. Current Bioinformatics, 2024, IF2023=2.4, Q2.&nbsp;&nbsp;
+- [TCM@MPXV: A Resource for Treating Monkeypox Patients in Traditional Chinese Medicine](https://www.eurekaselect.com/article/142054), Xin Zhang, Feiran Zhou, **Pinglu Zhang**, Quan Zou\* and Ying Zhang\*. Current Bioinformatics, 2024, IF2023=2.4, Q2.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/TCM.pdf)
 
 # 🎖 Honors and Awards
 - *2023.09* The First Prize (Ranked 1st Overall) in the CBC Data Challenge (CBC数据挑战赛全国一等奖).
