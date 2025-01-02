@@ -27,6 +27,7 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 
 
 # 🔥 News
+- *2024.12.30*: &nbsp;🎉🎉 I have been offered a joint PhD position at [UESTC](https://www.uestc.edu.cn/) and [Zhongguancun Academy](http://bjzgca.bjedu.cn:81/Default.aspx).
 - *2024.09.08*: &nbsp;🎉🎉 New Homepage was released! 
 
 # 📝 Publications 
