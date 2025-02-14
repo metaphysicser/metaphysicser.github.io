@@ -38,7 +38,7 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
   <div class='paper-box-image'>
     <div>
       <div class="badge">Genome Research 2025</div>
-      <img src='images/RaMA.svg' alt="sym" width="100%">
+      <img src='images/RaMA.svg' alt="sym" width="90%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -64,7 +64,7 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
   <div class='paper-box-image'>
     <div>
       <div class="badge">Bioinformatics 2024</div>
-      <img src='images/FMAlign2.png' alt="sym" width="100%">
+      <img src='images/FMAlign2.png' alt="sym" width="90%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
