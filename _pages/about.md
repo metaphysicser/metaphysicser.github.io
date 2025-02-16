@@ -49,7 +49,7 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 
 **Genome Research, 2025, nature index journal, IF2024=6.24.** 
 
-[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/RaMA.pdf)&nbsp;&nbsp;[**Code**](https://github.com/metaphysicser/RaMA)&nbsp;&nbsp;
+[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/RaMA.pdf)&nbsp;&nbsp;[**Code**](https://github.com/metaphysicser/RaMA)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - RaMA is a novel sequence alignment tool designed for centromeric regions, leveraging rare matches as anchors and a 2-piece affine gap cost to capture genetic evolution accurately.
 - RaMA utilizes parallel computing and the wavefront algorithm, achieving up to 13.66 times faster processing and using only 11% of UniAligner's memory.
