@@ -19,7 +19,7 @@ redirect_from:
 # 🙋🏼About Me
 Hello! I am Pinglu Zhang (张平路), a master's student at the &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [Institute of Fundamental and Frontier Sciences (IFFS)](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院), majoring in Computer Science and Technology. 
 
-I am also part of a joint training program (联合培养) at the &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，长三角研究院).
+I am also part of a joint training program (联合培养) at the &nbsp;<img src='./images/zgc.png' style='height: 1.5em; background-color: grey; border: 2px solid grey;'>&nbsp; [Zhongguancun Academy](http://bjzgca.bjedu.cn)(北京中关村学院).
 
 I am conducting research on [Sequence Alignment](http://lab.malab.cn/~cjt/MSA/) at the [Malab](http://123.57.240.48/forum.php?mod=viewthread&tid=8672) laboratory under the supervision of [Prof. Quan Zou](http://lab.malab.cn/~zq/) (邹权教授). My work focuses on developing multiple sequence alignment for large-scale data, mulitiple genome alignment, centromere region alignment, and related topics <a href='https://scholar.google.com/citations?user=T70BtHMAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
@@ -28,7 +28,7 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 
 # 🔥 News
 - *2025.02.07*: &nbsp;🎉🎉 New article has been accepted by Genome Research!
-- *2024.12.30*: &nbsp;🎉🎉 I have been offered a joint PhD position at [UESTC](https://www.uestc.edu.cn/) and [Zhongguancun Academy](http://bjzgca.bjedu.cn:81/Default.aspx).
+- *2024.12.30*: &nbsp;🎉🎉 I have been offered a joint PhD position at [UESTC](https://www.uestc.edu.cn/) and [Zhongguancun Academy](http://bjzgca.bjedu.cn).
 - *2024.09.08*: &nbsp;🎉🎉 New Homepage was released! 
 
 # 📝 Publications 
@@ -101,7 +101,9 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 # 📖 Educations
 - *2023.09 - (now)*: Master, [Institute of Fundamental and Frontier Sciences (IFFS)](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp;
 
-- *2024.06 - (now)*: Master (Joint Program), [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，长三角研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; 
+- *2025.03 - (now)*: Master (Joint Program), <img src='./images/zgc.png' style='height: 1.5em; background-color: grey; border: 2px solid grey;'>&nbsp; [Zhongguancun Academy](http://bjzgca.bjedu.cn)(北京中关村学院)&nbsp; 
+
+- *2024.06 - 2025.03*: Master (Joint Program), [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，长三角研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; 
 
 - *2019.09 - 2023.06*: Bachelor, [School of Computer Science](http://cs.gdut.edu.cn), [Guangdong University of Technology (GDUT)](http://www.gdut.edu.cn) (广东工业大学，计算机学院). &nbsp;<img src='./images/gdut.png' style='height: 4em;'>&nbsp;
 
