@@ -19,7 +19,7 @@ redirect_from:
 # 🙋🏼About Me
 Hello! I am Pinglu Zhang (张平路), a master's student at the &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [Institute of Fundamental and Frontier Sciences (IFFS)](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院), majoring in Computer Science and Technology. 
 
-I am also part of a joint training program (联合培养) at the &nbsp;<img src='./images/zgc.png' style='height: 1.5em; background-color: grey; border: 2px solid grey;'>&nbsp; [Zhongguancun Academy](http://bjzgca.bjedu.cn)(北京中关村学院).
+I am also part of a joint training program (联合培养) at the &nbsp;<img src='./images/zgc.jpg' style='height: 1.6em;'>&nbsp; [Zhongguancun Academy](http://bjzgca.bjedu.cn)(北京中关村学院).
 
 I am conducting research on [Sequence Alignment](http://lab.malab.cn/~cjt/MSA/) at the [Malab](http://123.57.240.48/forum.php?mod=viewthread&tid=8672) laboratory under the supervision of [Prof. Quan Zou](http://lab.malab.cn/~zq/) (邹权教授). My work focuses on developing multiple sequence alignment for large-scale data, mulitiple genome alignment, centromere region alignment, and related topics <a href='https://scholar.google.com/citations?user=T70BtHMAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
@@ -87,6 +87,8 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 
 - [PS-mixer: A polar-vector and strength-vector mixer model for multimodal sentiment analysis](https://www.sciencedirect.com/science/article/pii/S0306457322003302), H Lin<sup>†</sup>, **P Zhang**<sup>†</sup>, J Ling, Z Yang\*, LK Lee, W Liu. Information Processing & Management, 2023, 中科院1区, CCF-B, IF2023=8.6.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/PS-Mixer.pdf)&nbsp;&nbsp;[**Code**](https://github.com/metaphysicser/PS-Mixer)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:u5HHmVD_uO8C'></span></strong>
 
+- [Chimera: Ultrafast and Memory-efficient Database Construction for High-Accuracy Taxonomic Classification in the Age of Expanding Genomic Data](https://www.biorxiv.org/content/10.1101/2025.03.26.645388v1.abstract), Q Tian<sup>†</sup>, **P Zhang**<sup>†</sup>, Y Wei, Q Zou, Y Wang\*, X Luo\*. bioRxiv, 2025.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/Chimera.pdf)&nbsp;&nbsp;[**Code**](https://github.com/LoadStar822/Chimera)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:IjCSPb-OGe4C'></span></strong>
+
 - [HAlign-4: A New Strategy for Rapidly Aligning Millions of Sequences](https://doi.org/10.1093/bioinformatics/btae718), T Zhou, **P Zhang**,  Q Zou\*, W Han\*. Bioinformatics, 2024, 中科院3区, CCF-B, IF2024=4.4.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/HAlign4.pdf)&nbsp;&nbsp;[**Code**](https://github.com/metaphysicser/HAlign-4)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:2osOgNQ5qMEC'></span></strong>
 
 - [TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011988), Y Zhai, J Chao, Y Wang, **P Zhang**, F Tang\*, Q Zou\*. PLOS Computational Biology, 2024, 中科院2区, CCF-B, IF2024=3.8.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/TPMA.pdf)&nbsp;&nbsp;[**Code**](https://github.com/malabz/TPMA)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:d1gkVwhDpl0C'></span></strong>
@@ -102,7 +104,7 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 # 📖 Educations
 - *2023.09 - (now)*: Master, [Institute of Fundamental and Frontier Sciences (IFFS)](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp;
 
-- *2025.03 - (now)*: Master (Joint Program), <img src='./images/zgc.png' style='height: 1.5em; background-color: grey; border: 2px solid grey;'>&nbsp; [Zhongguancun Academy](http://bjzgca.bjedu.cn)(北京中关村学院)&nbsp; 
+- *2025.03 - (now)*: Master (Joint Program), [Zhongguancun Academy](http://bjzgca.bjedu.cn)(北京中关村学院).<img src='./images/zgc.jpg' style='height: 1.6em;'>&nbsp; 
 
 - *2024.06 - 2025.03*: Master (Joint Program), [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，长三角研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; 
 
