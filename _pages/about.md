@@ -99,7 +99,7 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 
 # 🎖 Honors and Awards
 - *2023.09* The First Prize (Ranked 1st Overall) in the CBC Data Challenge (CBC数据挑战赛全国一等奖).
-- *2025.03* 电子科技大学学术青苗.
+- *2025.03* 电子科技大学优秀研究生和学术青苗.
 
 # 📖 Educations
 - *2023.09 - (now)*: Master, [Institute of Fundamental and Frontier Sciences (IFFS)](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp;
