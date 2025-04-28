@@ -98,8 +98,8 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 - [TCM@MPXV: A Resource for Treating Monkeypox Patients in Traditional Chinese Medicine](https://www.eurekaselect.com/article/142054), Xin Zhang, Feiran Zhou, **Pinglu Zhang**, Quan Zou\* and Ying Zhang\*. Current Bioinformatics, 2024, 中科院3区, IF2024=2.4.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/TCM.pdf)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:UeHWp8X0CEIC'></span></strong>
 
 # 🎖 Honors and Awards
-- *2023.09* The First Prize (Ranked 1st Overall) in the CBC Data Challenge (CBC数据挑战赛全国一等奖).
-- *2025.03* 电子科技大学优秀研究生和学术青苗.
+- *2023.09* The First Prize (Ranked 1st Overall) in the CBC Data Challenge (CBC数据挑战赛全国[一等奖](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/honor/cbc%E8%8E%B7%E5%A5%96%E8%AF%81%E4%B9%A6.pdf)).
+- *2025.03* 电子科技大学[优秀研究生](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/honor/%E4%BC%98%E7%A7%80%E7%A0%94%E7%A9%B6%E7%94%9F.pdf)和[学术青苗](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/honor/%E5%AD%A6%E6%9C%AF%E9%9D%92%E8%8B%97.pdf).
 
 # 📖 Educations
 - *2023.09 - (now)*: Master, [Institute of Fundamental and Frontier Sciences (IFFS)](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp;
