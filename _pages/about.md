@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🙋🏼About Me
-Hello! I am Pinglu Zhang (张平路), a master's student at the &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [Institute of Fundamental and Frontier Sciences (IFFS)](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院), majoring in Computer Science and Technology. 
+Hello! I am Pinglu Zhang (张平路), Phd at the &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; [Institute of Fundamental and Frontier Sciences (IFFS)](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院), majoring in Computer Science and Technology. 
 
-I am also part of a joint training program (联合培养) at the &nbsp;<img src='./images/zgc.jpg' style='height: 1.6em;'>&nbsp; [Zhongguancun Academy](http://bjzgca.bjedu.cn)(北京中关村学院).
+I am also part of a joint training program (联合培养) at the &nbsp;<img src='./images/zgc.jpg' style='height: 1.6em;'>&nbsp; [Zhongguancun Academy](https://www.bjzgca.edu.cn/)(北京中关村学院).
 
 I am conducting research on [Sequence Alignment](http://lab.malab.cn/~cjt/MSA/) at the [Malab](http://123.57.240.48/forum.php?mod=viewthread&tid=8672) laboratory under the supervision of [Prof. Quan Zou](http://lab.malab.cn/~zq/) (邹权教授). My work focuses on developing multiple sequence alignment for large-scale data, mulitiple genome alignment, centromere region alignment, and related topics <a href='https://scholar.google.com/citations?user=T70BtHMAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
@@ -27,12 +27,40 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 
 
 # 🔥 News
+- *2025.11.30*: &nbsp;🎉🎉 New article has been accepted by Genome Biology!
 - *2025.02.07*: &nbsp;🎉🎉 New article has been accepted by Genome Research!
 - *2024.12.30*: &nbsp;🎉🎉 I have been offered a joint PhD position at [UESTC](https://www.uestc.edu.cn/) and [Zhongguancun Academy](http://bjzgca.bjedu.cn).
 - *2024.09.08*: &nbsp;🎉🎉 New Homepage was released! 
 
 # 📝 Publications 
 ## Selected Publication
+
+
+<div class='paper-box'>  
+  <div class='paper-box-image'>  
+    <div>  
+      <div class="badge">Genome Biology 2025</div>  
+      <img src='images/halign-g.png' alt="sym" width="90%">  
+    </div>  
+  </div>  
+  <div class='paper-box-text' markdown="1">  
+
+[HAlign-G: rapid and low-memory multiple-genome aligner for large-scale closely related genomes](https://doi.org/10.1186/s13059-025-03881-3)
+
+**Pinglu Zhang**<sup>†</sup>, Tong Zhou<sup>†</sup>, Yanming Wei, Qinzhong Tian, Yixiao Zhai, Yizheng Wang, Quan Zou, Furong Tang\*, Ximei Luo\*
+
+**Genome Biology, 2025, 中科院1区, IF2025=9.4**
+
+[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/HAlign-G.pdf)   [**Code**](https://github.com/malabz/HAlign-G)   <strong><span class='show_paper_citations' data='T70BtHMAAAAJ:Y0pCki6q_DkC'></span></strong>
+
+- HAlign-G is a fast and memory-efficient solution for large-scale multiple genome alignment, integrating BWT-FM-LIS indexing, an optimized K-band algorithm, and a star-alignment strategy.
+
+- It includes HAlign-G1 for intra-species multiple sequence alignment and HAlign-G2 for cross-species multiple genome alignment, each optimized for distinct evolutionary signals.
+
+- Benchmarks indicate that HAlign-G achieves higher accuracy, lower memory usage, and significantly faster performance than existing methods across both short- and long-genome datasets.
+
+</div>  
+</div>  
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -93,7 +121,7 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 
 - [TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011988), Y Zhai, J Chao, Y Wang, **P Zhang**, F Tang\*, Q Zou\*. PLOS Computational Biology, 2024, 中科院2区, CCF-B, IF2024=3.8.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/TPMA.pdf)&nbsp;&nbsp;[**Code**](https://github.com/malabz/TPMA)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:d1gkVwhDpl0C'></span></strong>
 
-- [ReAlign-P: A vertical iterative realignment method for protein multiple sequence alignment](https://doi.org/10.1093/bioinformatics/btaf421), Y Zhai, **P Zhang**, Q Zou, X Luo\*. Bioinformatics, 2025, 中科院3区, CCF-B, IF2025=5.4.&nbsp;&nbsp;[**Paper**](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaf421/8213638?login=false)&nbsp;&nbsp;[**Code**](https://github.com/malabz/ReAlign-P)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+- [ReAlign-P: A vertical iterative realignment method for protein multiple sequence alignment](https://doi.org/10.1093/bioinformatics/btaf421), Y Zhai, **P Zhang**, Q Zou, X Luo\*. Bioinformatics, 2025, 中科院3区, CCF-B, IF2025=5.4.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/ReAlign-P.pdf)&nbsp;&nbsp;[**Code**](https://github.com/malabz/ReAlign-P)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 
 - [Application and Comparison of Machine Learning and Database-Based Methods in Taxonomic Classification of High-Throughput Sequencing Data](https://academic.oup.com/gbe/article-abstract/16/5/evae102/7674165), Q Tian, **P Zhang**, Y Zhai, Y Wang\*, Q Zou\*. Genome Biology and Evolution, 2024, 中科院2区, IF2024=3.2.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/sequence%20classification%20survey.pdf)&nbsp;&nbsp;[**Code**](http://lab.malab.cn/~tqz/project/taxonomic/)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:9yKSN-GCB0IC'></span></strong>
 
@@ -106,9 +134,9 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 - *2025.03* 电子科技大学[优秀研究生](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/honor/%E4%BC%98%E7%A7%80%E7%A0%94%E7%A9%B6%E7%94%9F.pdf)和[学术青苗](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/honor/%E5%AD%A6%E6%9C%AF%E9%9D%92%E8%8B%97.pdf).
 
 # 📖 Educations
-- *2023.09 - (now)*: Master, [Institute of Fundamental and Frontier Sciences (IFFS)](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp;
+- *2023.09 - (now)*: Phd, [Institute of Fundamental and Frontier Sciences (IFFS)](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp;
 
-- *2025.03 - (now)*: Master (Joint Program), [Zhongguancun Academy](http://bjzgca.bjedu.cn)(北京中关村学院).<img src='./images/zgc.jpg' style='height: 1.6em;'>&nbsp; 
+- *2025.03 - (now)*: Phd (Joint Program), [Zhongguancun Academy](http://bjzgca.bjedu.cn)(北京中关村学院).<img src='./images/zgc.jpg' style='height: 1.6em;'>&nbsp; 
 
 - *2024.06 - 2025.03*: Master (Joint Program), [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，长三角研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; 
 
