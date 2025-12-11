@@ -27,10 +27,15 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 
 
 # 🔥 News
+- *2025.12.11*: &nbsp;🎉🎉 NSFC Young Student Basic Research Grant （国自然博士生项目）！
 - *2025.11.30*: &nbsp;🎉🎉 New article has been accepted by Genome Biology!
 - *2025.02.07*: &nbsp;🎉🎉 New article has been accepted by Genome Research!
-- *2024.12.30*: &nbsp;🎉🎉 I have been offered a joint PhD position at [UESTC](https://www.uestc.edu.cn/) and [Zhongguancun Academy](http://bjzgca.bjedu.cn).
+- *2024.12.30*: &nbsp;🎉🎉 I have been offered a joint PhD position at [UESTC](https://www.uestc.edu.cn/) and [Zhongguancun Academy](https://www.bjzgca.edu.cn/).
 - *2024.09.08*: &nbsp;🎉🎉 New Homepage was released! 
+
+# 💰 Fundings
+- **国家自然科学基金青年学生基础研究项目（博士研究生）**          面向全基因组的大规模多物种基因组比对研究
+
 
 # 📝 Publications 
 ## Selected Publication
@@ -129,14 +134,15 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 
 - [TCM@MPXV: A Resource for Treating Monkeypox Patients in Traditional Chinese Medicine](https://www.eurekaselect.com/article/142054), Xin Zhang, Feiran Zhou, **Pinglu Zhang**, Quan Zou\* and Ying Zhang\*. Current Bioinformatics, 2024, 中科院3区, IF2024=2.4.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/TCM.pdf)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:UeHWp8X0CEIC'></span></strong>
 
-# 🎖 Honors and Awards
+
+# 🎖 Awards
 - *2023.09* The First Prize (Ranked 1st Overall) in the CBC Data Challenge (CBC数据挑战赛全国[一等奖](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/honor/cbc%E8%8E%B7%E5%A5%96%E8%AF%81%E4%B9%A6.pdf)).
 - *2025.03* 电子科技大学[优秀研究生](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/honor/%E4%BC%98%E7%A7%80%E7%A0%94%E7%A9%B6%E7%94%9F.pdf)和[学术青苗](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/honor/%E5%AD%A6%E6%9C%AF%E9%9D%92%E8%8B%97.pdf).
 
 # 📖 Educations
 - *2023.09 - (now)*: Phd, [Institute of Fundamental and Frontier Sciences (IFFS)](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp;
 
-- *2025.03 - (now)*: Phd (Joint Program), [Zhongguancun Academy](http://bjzgca.bjedu.cn)(北京中关村学院).<img src='./images/zgc.jpg' style='height: 1.6em;'>&nbsp; 
+- *2025.03 - (now)*: Phd (Joint Program), [Zhongguancun Academy](https://www.bjzgca.edu.cn/)(北京中关村学院).<img src='./images/zgc.jpg' style='height: 1.6em;'>&nbsp; 
 
 - *2024.06 - 2025.03*: Master (Joint Program), [Yangtze Delta Region Institute (Quzhou)](http://ydri.uestc.edu.cn), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，长三角研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp; 
 
