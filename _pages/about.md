@@ -56,7 +56,7 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 
 **Genome Biology, 2025, 中科院1区, IF2025=9.4**
 
-[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/HAlign-G.pdf)   [**Code**](https://github.com/malabz/HAlign-G)   <strong><span class='show_paper_citations' data='T70BtHMAAAAJ:Y0pCki6q_DkC'></span></strong>
+[**Paper**](https://github.com/pinglu-zhang/pinglu-zhang.github.io/blob/main/paper/HAlign-G.pdf)   [**Code**](https://github.com/malabz/HAlign-G)   <strong><span class='show_paper_citations' data='T70BtHMAAAAJ:Y0pCki6q_DkC'></span></strong>
 
 - HAlign-G is a fast and memory-efficient solution for large-scale multiple genome alignment, integrating BWT-FM-LIS indexing, an optimized K-band algorithm, and a star-alignment strategy.
 
@@ -82,7 +82,7 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 
 **Genome Research, 2025, 中科院1区, nature index journal, IF2024=6.24.** 
 
-[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/RaMA.pdf)&nbsp;&nbsp;[**Code**](https://github.com/metaphysicser/RaMA)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:qjMakFHDy7sC'></span></strong>
+[**Paper**](https://github.com/pinglu-zhang/pinglu-zhang.github.io/blob/main/paper/RaMA.pdf)&nbsp;&nbsp;[**Code**](https://github.com/pinglu-zhang/RaMA)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:qjMakFHDy7sC'></span></strong>
 
 - RaMA is a novel sequence alignment tool designed for centromeric regions, leveraging rare matches as anchors and a 2-piece affine gap cost to capture genetic evolution accurately.
 - RaMA utilizes parallel computing and the wavefront algorithm, achieving up to 13.66 times faster processing and using only 11% of UniAligner's memory.
@@ -108,7 +108,7 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 
 **Bioinformatics, 2024, 中科院3区, CCF-B, IF2024=4.4.** 
 
-[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/FMAlign2.pdf)&nbsp;&nbsp;[**Code**](https://github.com/malabz/FMAlign2)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:u-x6o8ySG0sC'></span></strong>
+[**Paper**](https://github.com/pinglu-zhang/pinglu-zhang.github.io/blob/main/paper/FMAlign2.pdf)&nbsp;&nbsp;[**Code**](https://github.com/malabz/FMAlign2)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:u-x6o8ySG0sC'></span></strong>
 
 - FMAlign2 is an improved MSA method that uses a suffix array and vertical division strategy to align ultralong sequences in parallel. 
 - FMAlign2 reduces processing time while maintaining accuracy, handling sequences up to billions in length efficiently.
@@ -118,33 +118,33 @@ Researchers interested in collaboration are welcome to contact me at [pingluzhan
 
 ## Other Publications
 
-- [PS-mixer: A polar-vector and strength-vector mixer model for multimodal sentiment analysis](https://www.sciencedirect.com/science/article/pii/S0306457322003302), H Lin<sup>†</sup>, **P Zhang**<sup>†</sup>, J Ling, Z Yang\*, LK Lee, W Liu. Information Processing & Management, 2023, 中科院1区, CCF-B, IF2023=8.6.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/PS-Mixer.pdf)&nbsp;&nbsp;[**Code**](https://github.com/metaphysicser/PS-Mixer)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:u5HHmVD_uO8C'></span></strong>
+- [PS-mixer: A polar-vector and strength-vector mixer model for multimodal sentiment analysis](https://www.sciencedirect.com/science/article/pii/S0306457322003302), H Lin<sup>†</sup>, **P Zhang**<sup>†</sup>, J Ling, Z Yang\*, LK Lee, W Liu. Information Processing & Management, 2023, 中科院1区, CCF-B, IF2023=8.6.&nbsp;&nbsp;[**Paper**](https://github.com/pinglu-zhang/pinglu-zhang.github.io/blob/main/paper/PS-Mixer.pdf)&nbsp;&nbsp;[**Code**](https://github.com/pinglu-zhang/PS-Mixer)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:u5HHmVD_uO8C'></span></strong>
 
-- [Chimera: Ultrafast and Memory-efficient Database Construction for High-Accuracy Taxonomic Classification in the Age of Expanding Genomic Data](https://www.biorxiv.org/content/10.1101/2025.03.26.645388v1.abstract), Q Tian<sup>†</sup>, **P Zhang**<sup>†</sup>, Y Wei, Q Zou, Y Wang\*, X Luo\*. bioRxiv, 2025.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/Chimera.pdf)&nbsp;&nbsp;[**Code**](https://github.com/LoadStar822/Chimera)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:IjCSPb-OGe4C'></span></strong>
+- [Chimera: Ultrafast and Memory-efficient Database Construction for High-Accuracy Taxonomic Classification in the Age of Expanding Genomic Data](https://www.biorxiv.org/content/10.1101/2025.03.26.645388v1.abstract), Q Tian<sup>†</sup>, **P Zhang**<sup>†</sup>, Y Wei, Q Zou, Y Wang\*, X Luo\*. bioRxiv, 2025.&nbsp;&nbsp;[**Paper**](https://github.com/pinglu-zhang/pinglu-zhang.github.io/blob/main/paper/Chimera.pdf)&nbsp;&nbsp;[**Code**](https://github.com/LoadStar822/Chimera)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:IjCSPb-OGe4C'></span></strong>
 
 
 * [MMSpa is a deep learning-based tool that enhances the identification of spatial domains in spatial transcriptomics studies](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003580), Y Liu, Y Zhai, **P Zhang**, Q Zou, X Luo\*. PLoS Biology, 2026, 中科院1区, nature index joirnal, IF2025=7.2.  [**Paper**](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003580)  [**Code**](https://github.com/LYxiaotai/MMSpa)  <strong><span class='show_paper_citations' data='T70BtHMAAAAJ:YsMSGLbcyi4C'></span></strong>
 
 
-- [HAlign-4: A New Strategy for Rapidly Aligning Millions of Sequences](https://doi.org/10.1093/bioinformatics/btae718), T Zhou, **P Zhang**,  Q Zou\*, W Han\*. Bioinformatics, 2024, 中科院3区, CCF-B, IF2024=4.4.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/HAlign4.pdf)&nbsp;&nbsp;[**Code**](https://github.com/metaphysicser/HAlign-4)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:2osOgNQ5qMEC'></span></strong>
+- [HAlign-4: A New Strategy for Rapidly Aligning Millions of Sequences](https://doi.org/10.1093/bioinformatics/btae718), T Zhou, **P Zhang**,  Q Zou\*, W Han\*. Bioinformatics, 2024, 中科院3区, CCF-B, IF2024=4.4.&nbsp;&nbsp;[**Paper**](https://github.com/pinglu-zhang/pinglu-zhang.github.io/blob/main/paper/HAlign4.pdf)&nbsp;&nbsp;[**Code**](https://github.com/pinglu-zhang/HAlign-4)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:2osOgNQ5qMEC'></span></strong>
 
-- [TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011988), Y Zhai, J Chao, Y Wang, **P Zhang**, F Tang\*, Q Zou\*. PLOS Computational Biology, 2024, 中科院2区, CCF-B, IF2024=3.8.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/TPMA.pdf)&nbsp;&nbsp;[**Code**](https://github.com/malabz/TPMA)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:d1gkVwhDpl0C'></span></strong>
+- [TPMA: A two pointers meta-alignment tool to ensemble different multiple nucleic acid sequence alignments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011988), Y Zhai, J Chao, Y Wang, **P Zhang**, F Tang\*, Q Zou\*. PLOS Computational Biology, 2024, 中科院2区, CCF-B, IF2024=3.8.&nbsp;&nbsp;[**Paper**](https://github.com/pinglu-zhang/pinglu-zhang.github.io/blob/main/paper/TPMA.pdf)&nbsp;&nbsp;[**Code**](https://github.com/malabz/TPMA)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:d1gkVwhDpl0C'></span></strong>
 
-- [ReAlign-P: A vertical iterative realignment method for protein multiple sequence alignment](https://doi.org/10.1093/bioinformatics/btaf421), Y Zhai, **P Zhang**, Q Zou, X Luo\*. Bioinformatics, 2025, 中科院3区, CCF-B, IF2025=5.4.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/ReAlign-P.pdf)&nbsp;&nbsp;[**Code**](https://github.com/malabz/ReAlign-P)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+- [ReAlign-P: A vertical iterative realignment method for protein multiple sequence alignment](https://doi.org/10.1093/bioinformatics/btaf421), Y Zhai, **P Zhang**, Q Zou, X Luo\*. Bioinformatics, 2025, 中科院3区, CCF-B, IF2025=5.4.&nbsp;&nbsp;[**Paper**](https://github.com/pinglu-zhang/pinglu-zhang.github.io/blob/main/paper/ReAlign-P.pdf)&nbsp;&nbsp;[**Code**](https://github.com/malabz/ReAlign-P)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 
-- [Application and Comparison of Machine Learning and Database-Based Methods in Taxonomic Classification of High-Throughput Sequencing Data](https://academic.oup.com/gbe/article-abstract/16/5/evae102/7674165), Q Tian, **P Zhang**, Y Zhai, Y Wang\*, Q Zou\*. Genome Biology and Evolution, 2024, 中科院2区, IF2024=3.2.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/sequence%20classification%20survey.pdf)&nbsp;&nbsp;[**Code**](http://lab.malab.cn/~tqz/project/taxonomic/)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:9yKSN-GCB0IC'></span></strong>
+- [Application and Comparison of Machine Learning and Database-Based Methods in Taxonomic Classification of High-Throughput Sequencing Data](https://academic.oup.com/gbe/article-abstract/16/5/evae102/7674165), Q Tian, **P Zhang**, Y Zhai, Y Wang\*, Q Zou\*. Genome Biology and Evolution, 2024, 中科院2区, IF2024=3.2.&nbsp;&nbsp;[**Paper**](https://github.com/pinglu-zhang/pinglu-zhang.github.io/blob/main/paper/sequence%20classification%20survey.pdf)&nbsp;&nbsp;[**Code**](http://lab.malab.cn/~tqz/project/taxonomic/)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:9yKSN-GCB0IC'></span></strong>
 
 * [deMEM: a novel divide-and-conquer framework based on de Bruijn graph for scalable multiple sequence alignment](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/giaf163/8414073), Y Wei, Z Huang, **P Zhang**, Y Wang, Y Li, L Yu*, Q Zou\*. GigaScience, 2026, 中科院2区, IF2024=3.9.  [**Paper**](https://academic.oup.com/gigascience/advance-article-pdf/doi/10.1093/gigascience/giaf163/66263799/giaf163.pdf)  [**Code**](https://github.com/malabz/deMEM)  <strong><span class='show_paper_citations' data='T70BtHMAAAAJ:W7OEmFMy1HYC'></span></strong>
 
 
 - [ReAlign-Star: An Optimized Realignment Method for Multiple Sequence Alignment, Targeting Star Algorithm Tools](https://doi.org/10.1093/bioinformatics/btaf421), Y Zhai, **P Zhang**, Y Liu, Q Zou\*. International Conference on Intelligent Computing, 2025, CCF-C.&nbsp;&nbsp;[**Paper**](https://link.springer.com/chapter/10.1007/978-981-95-0030-7_38)&nbsp;&nbsp;[**Code**](https://github.com/malabz/ReAlign-Star)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:zYLM7Y9cAGgC'></span></strong>
 
-- [TCM@MPXV: A Resource for Treating Monkeypox Patients in Traditional Chinese Medicine](https://www.eurekaselect.com/article/142054), Xin Zhang, Feiran Zhou, **Pinglu Zhang**, Quan Zou\* and Ying Zhang\*. Current Bioinformatics, 2024, 中科院3区, IF2024=2.4.&nbsp;&nbsp;[**Paper**](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/paper/TCM.pdf)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:UeHWp8X0CEIC'></span></strong>
+- [TCM@MPXV: A Resource for Treating Monkeypox Patients in Traditional Chinese Medicine](https://www.eurekaselect.com/article/142054), Xin Zhang, Feiran Zhou, **Pinglu Zhang**, Quan Zou\* and Ying Zhang\*. Current Bioinformatics, 2024, 中科院3区, IF2024=2.4.&nbsp;&nbsp;[**Paper**](https://github.com/pinglu-zhang/pinglu-zhang.github.io/blob/main/paper/TCM.pdf)&nbsp;&nbsp;<strong><span class='show_paper_citations' data='T70BtHMAAAAJ:UeHWp8X0CEIC'></span></strong>
 
 
 # 🎖 Awards
-- *2023.09* The First Prize (Ranked 1st Overall) in the CBC Data Challenge (CBC数据挑战赛全国[一等奖](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/honor/cbc%E8%8E%B7%E5%A5%96%E8%AF%81%E4%B9%A6.pdf)).
-- *2025.03* 电子科技大学[优秀研究生](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/honor/%E4%BC%98%E7%A7%80%E7%A0%94%E7%A9%B6%E7%94%9F.pdf)和[学术青苗](https://github.com/metaphysicser/metaphysicser.github.io/blob/main/honor/%E5%AD%A6%E6%9C%AF%E9%9D%92%E8%8B%97.pdf).
+- *2023.09* The First Prize (Ranked 1st Overall) in the CBC Data Challenge (CBC数据挑战赛全国[一等奖](https://github.com/pinglu-zhang/pinglu-zhang.github.io/blob/main/honor/cbc%E8%8E%B7%E5%A5%96%E8%AF%81%E4%B9%A6.pdf)).
+- *2025.03* 电子科技大学[优秀研究生](https://github.com/pinglu-zhang/pinglu-zhang.github.io/blob/main/honor/%E4%BC%98%E7%A7%80%E7%A0%94%E7%A9%B6%E7%94%9F.pdf)和[学术青苗](https://github.com/pinglu-zhang/pinglu-zhang.github.io/blob/main/honor/%E5%AD%A6%E6%9C%AF%E9%9D%92%E8%8B%97.pdf).
 
 # 📖 Educations
 - *2023.09 - (now)*: Phd, [Institute of Fundamental and Frontier Sciences (IFFS)](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn) (电子科技大学，基础与前沿研究院). &nbsp;<img src='./images/uestc.jpg' style='height: 1.5em;'>&nbsp;
